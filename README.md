@@ -24,7 +24,7 @@ RegisterNumber:
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![](./square.png)
 
 
 ## Result:
